@@ -1,0 +1,16 @@
+{
+  "name": "framework-arduinoespressif32",
+  "version": "3.20004.230324",
+  "description": "IndustrialShields fork of Arduino-ESP32",
+  "keywords": [
+    "framework",
+    "arduino",
+    "espressif",
+    "esp32"
+  ],
+  "license": "LGPL-2.1-or-later",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/espressif/arduino-esp32"
+  }
+}
